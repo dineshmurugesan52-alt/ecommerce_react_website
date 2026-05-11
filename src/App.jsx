@@ -10,9 +10,9 @@ function App() {
   return (
     <>
       <h1>
-        Happy..
 
-        Day
+        Happy
+
       </h1>
     </>
   )
